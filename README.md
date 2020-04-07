@@ -4,9 +4,9 @@ Introduction - a brief summary of the general problem being studied and addresse
 
 ## Team Members
 
-Makena Haroldson
-Israel Romero
-Zero Hanami
+Makena Haroldson<br/>
+Israel Romero<br/>
+Zero Hanami<br/>
 
 ## Phase 1: User Inquiry and Inspection
 
