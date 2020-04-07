@@ -1,4 +1,4 @@
-# Safety Net
+# SafeHaven
 
 Introduction - a brief summary of the general problem being studied and addressed
 
