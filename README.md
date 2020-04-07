@@ -1,12 +1,12 @@
 # SafeHaven
 
-Introduction - a brief summary of the general problem being studied and addressed
+We want to develop a software that allows users to communicate with the ones they trust at a push of a button. The main goal is for people to feel more safe when traveling alone or as a group and can rapidly access help if needed.
 
 ## Team Members
 
-Makena Haroldson<br/>
-Israel Romero<br/>
-Zero Hanami<br/>
+Makena Haroldson - Summarized report and analyzed the caveats of the project, while helping make the scenarios and personas, grammar genius.<br/>
+Israel Romero - Authored personas and scenarios and edited work.<br/>
+Zero Hanami -  Reported the methods, findings, and conclusions of the preliminary research.<br/>
 
 ## Phase 1: User Inquiry and Inspection
 
