@@ -20,7 +20,8 @@ We find that most needs of users we had intended to target with our application 
 
 Due to the limitation of Chico IBR not allowing us to conduct research on human subjects; we collected data from a small sample size where the majority of respondents were male. 
 
-From the results, we have acknowledged that some information is ambiguous as we should have asked more detailed questions. For example, we should have asked respondents to number their most used ways of transportation by how frequently they do so. 
+From the results, we have acknowledged that some information is ambiguous as we should have asked more detailed questions. For example, we should have asked respondents to number their most used ways of transportation by how frequently they do so.
+Just as well, when we asked for how safe one feels when using these methods, we are aggregating the options into one metric, not including the fact that a person could feel safer when driving rather than walking.
 
 Also because of the sensitivity of the situations, we can only rely on interviews and surveys as we cannot do naturalistic observations and contextual inquiry. That means we do not know for sure their ways of transportation.
 
