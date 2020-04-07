@@ -5,7 +5,7 @@ We want to develop a software that allows users to communicate with the ones the
 ## Team Members
 
 Makena Haroldson - Summarized report and analyzed the caveats of the project, while helping make the scenarios and personas, grammar genius.<br/>
-Israel Romero - Authored personas and scenarios and edited work.<br/>
+Israel Ramos - Authored personas and scenarios and edited work human grammarly.<br/>
 Zero Hanami -  Reported the methods, findings, and conclusions of the preliminary research.<br/>
 
 ## Phase 1: User Inquiry and Inspection
