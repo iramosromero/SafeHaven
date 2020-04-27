@@ -29,11 +29,11 @@ Also because of the sensitivity of the situations, we can only rely on interview
 
 ![Male Student Image](../assets/male-student.jpg)<br/>
 Image: Freepik.com<br/>
-Male college student - Mark is a 23-year-old white student athlete that devotes his time to his sport and classwork. On the weekends he likes to spend most of his time with friends and enjoys going out to the bar. He is the one that tends to look over all of his friends to make sure they are alright when they go out to the town. He would like to have an easy way to keep track of his friends when they are together and make sure everyone is safe.  - 
+Male college student - Mark is a 23-year-old student that devotes his time to his sport and classwork. On the weekends he likes to spend most of his time with friends and enjoys going out to the bar. He is the one that tends to look over all of his friends to make sure they are alright when they go out to the town. He would like to have an easy way to keep track of his friends when they are together and make sure everyone is safe.  - 
 
 ![Female Student Image](../assets/female-student.jpg)<br/>
 Image: Freepik.com<br/>
-Female college student - Jenny is a 21-year-old Indian college student. She is a bookworm that starts and ends her day at school. When she is not in class she is at the library. Her house is a couple of blocks away so she usually walks home when it is dark outside. She does not feel safe most of the time and her friends always worry about her safety. She wants an easy way to connect with her friends if something was to go wrong. It will make her feel more comfortable than to walk home.
+Female college student - Jenny is a 21-year-old college student. She is a bookworm that starts and ends her day at school. When she is not in class she is at the library. Her house is a couple of blocks away so she usually walks home when it is dark outside. She does not feel safe most of the time and her friends always worry about her safety. She wants an easy way to connect with her friends if something was to go wrong. It will make her feel more comfortable than to walk home.
 
 ## Scenarios
 
